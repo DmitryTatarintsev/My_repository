@@ -1,4 +1,4 @@
-# <a href='https://github.com/DmitryTatarintsev/Other-Projects/blob/main/12/12.ipynb'>Прогнозирование количества заказов такси на следующий час.</a>
+# <a href='https://github.com/DmitryTatarintsev/My_repository/blob/main/3/3.ipynb'>Прогнозирование количества заказов такси на следующий час.</a>
 ## Описание проекта
 Нужно разработать систему предсказания объема заказа.
 ## Стэк
