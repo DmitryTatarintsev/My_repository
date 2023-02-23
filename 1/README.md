@@ -1,4 +1,4 @@
-# <a href='https://github.com/DmitryTatarintsev/My_repository/blob/main/2/2.ipynb'>Построение модели определения стоимости автомобиля</a>
+# <a href='https://github.com/DmitryTatarintsev/My_repository/blob/main/1/1.ipynb'>Построение модели определения стоимости автомобиля</a>
 ## Описание проекта
 Нужно разработать систему рекомендации стоимости автомобиля на основе его описания.
 ## Стэк
